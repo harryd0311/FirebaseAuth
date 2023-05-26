@@ -1,4 +1,4 @@
-# nrich_assignment
+# Firebase Authentication
 
 A new Flutter project.
 
